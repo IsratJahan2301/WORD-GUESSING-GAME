@@ -1,0 +1,7 @@
+Game Rules
+
+1.There will be 3 levels in the game.
+2.You will have 10 attempts for level 1, 7 Attempts for level 2, 5 Attempts for level 3.
+3.For each right guess you will get 10 points in each level!
+4.Try not to waste attempts!The more you guess correct words the more you gain points.
+5.It's a fun game give it a try!
